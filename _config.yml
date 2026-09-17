@@ -1,8 +1,8 @@
-title: "Your Brand / Project Name"
-email: "your-email@domain.com"
-description: "A short, keyword-rich meta description optimized for search engines and geo-targeted traffic."
-url: "https://shahzad-est.com"
-baseurl: "" # Keep empty if using a custom domain or root GitHub Pages repo
+title: "CaliCrush"
+email: "your-email@example.com"
+description: "West Coast Smash Burgers & Shakes"
+baseurl: "/CaliCrush" # Must match your exact GitHub repository name starting with a slash
+url: "https://Khisal786.github.io"
 
 # Build settings
 markdown: kramdown
